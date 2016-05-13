@@ -1,5 +1,5 @@
-# iBis-server2
-API server for iBis written in Python
+# ocyco-server
+API server for [OCYCO](https://github.com/opencyclecompass/) written in Python
 
 Currently under development.
 
