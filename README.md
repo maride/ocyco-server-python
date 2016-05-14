@@ -5,8 +5,8 @@ Currently under development.
 
 ## Dependencies
 
-Module | Version
--|-
+Module | Version
+---|---
 Flask | >= 0.10.1
 Flask_SQLAlchemy | >= 2.1
 GeoAlchemy2 | >= 0.2.5
