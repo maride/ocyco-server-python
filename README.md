@@ -19,5 +19,10 @@ Install needed python modules, e.g. via *pip*:
 
 You also need `postgresql`.
 
+## Todo
+
+- [ ] create tables upon start to ease first startup after installation and make `ocyco-server` production environment friendly.
+- [ ] read database address from config file and/or parameter
+
 ## API
 API documentation can be found [here](docs/API2.md)
